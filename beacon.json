@@ -1,0 +1,62 @@
+[
+  {
+    "id":1,
+    "basicId": 1,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+    "name": "beacon 1"
+  },
+  {
+    "id":2,
+    "basicId": 2,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 2"
+  },
+   {
+    "id":3,
+    "basicId": 3,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 3"
+  },
+   {
+    "id":4,
+    "basicId": 4,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 4"
+  },
+   {
+    "id":5,
+    "basicId": 5,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 5"
+  },
+   {
+    "id":6,
+    "basicId": 6,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 6"
+  },
+   {
+    "id":7,
+    "basicId": 7,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 7"
+  },
+   {
+    "id":8,
+    "basicId": 8,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 8"
+  },
+   {
+    "id":9,
+    "basicId": 9,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 9"
+  
+    {
+    "id":10,
+    "basicId": 10,
+    "image": "https://miro.medium.com/v2/resize:fit:1080/1*crhunRsaa7tWidrpu4DHrg.png",
+     "name": "beacon 10"
+  },
+]
